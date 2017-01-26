@@ -1,0 +1,379 @@
+[debug] ----------------------------------------------------------------------
+[debug] Command:      C:\Program Files\nodejs\node.exe C:\Users\jacdewaal\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase deploy
+[debug] CLI Version:  3.2.1
+[debug] Platform:     win32
+[debug] Node Version: v4.5.0
+[debug] Time:         Thu Jan 26 2017 15:03:56 GMT+0200 (South Africa Standard Time)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[debug] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase"]
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/tonteldoos-6917b 
+[debug] <<< HTTP RESPONSE 200
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/tonteldoos-6917b/tokens 
+[debug] <<< HTTP RESPONSE 200
+[info] 
+[info] === Deploying to 'tonteldoos-6917b'...
+[info] 
+[info] i  deploying hosting
+[info] +  database: rules ready to deploy.
+[info] i  hosting: preparing public directory for upload...
+[debug] >>> HTTP REQUEST PUT https://deploy.firebase.com/v1/hosting/tonteldoos-6917b/uploads/-KbPrxkJvPTe3gHaNKQt?fileCount=2&message= 
+[debug] Error: connect ETIMEDOUT 23.251.151.130:443
+    at Object.exports._errnoException (util.js:907:11)
+    at exports._exceptionWithHostPort (util.js:930:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1077:14)
+[error] 
+[error] Error: Server Error. connect ETIMEDOUT 23.251.151.130:443
+[debug] ----------------------------------------------------------------------
+[debug] Command:      C:\Program Files\nodejs\node.exe C:\Users\jacdewaal\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase deploy
+[debug] CLI Version:  3.2.1
+[debug] Platform:     win32
+[debug] Node Version: v4.5.0
+[debug] Time:         Thu Jan 26 2017 15:04:59 GMT+0200 (South Africa Standard Time)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[debug] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase"]
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/tonteldoos-6917b 
+[debug] <<< HTTP RESPONSE 200
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/tonteldoos-6917b/tokens 
+[debug] <<< HTTP RESPONSE 200
+[info] 
+[info] === Deploying to 'tonteldoos-6917b'...
+[info] 
+[info] i  deploying hosting
+[info] +  database: rules ready to deploy.
+[info] i  hosting: preparing public directory for upload...
+[debug] >>> HTTP REQUEST PUT https://deploy.firebase.com/v1/hosting/tonteldoos-6917b/uploads/-KbPsBgSVpVD4Ejo8z9N?fileCount=2&message= 
+[debug] Error: connect ETIMEDOUT 23.251.151.130:443
+    at Object.exports._errnoException (util.js:907:11)
+    at exports._exceptionWithHostPort (util.js:930:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1077:14)
+[error] 
+[error] Error: Server Error. connect ETIMEDOUT 23.251.151.130:443
+[debug] ----------------------------------------------------------------------
+[debug] Command:      C:\Program Files\nodejs\node.exe C:\Users\jacdewaal\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase deploy
+[debug] CLI Version:  3.2.1
+[debug] Platform:     win32
+[debug] Node Version: v4.5.0
+[debug] Time:         Thu Jan 26 2017 15:05:46 GMT+0200 (South Africa Standard Time)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[debug] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase"]
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/tonteldoos-6917b 
+[debug] <<< HTTP RESPONSE 200
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/tonteldoos-6917b/tokens 
+[debug] <<< HTTP RESPONSE 200
+[info] 
+[info] === Deploying to 'tonteldoos-6917b'...
+[info] 
+[info] i  deploying hosting
+[info] +  database: rules ready to deploy.
+[info] i  hosting: preparing public directory for upload...
+[debug] >>> HTTP REQUEST PUT https://deploy.firebase.com/v1/hosting/tonteldoos-6917b/uploads/-KbPsN5O_1-ICkP0pehY?fileCount=2&message= 
+[debug] Error: connect ETIMEDOUT 23.251.151.130:443
+    at Object.exports._errnoException (util.js:907:11)
+    at exports._exceptionWithHostPort (util.js:930:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1077:14)
+[error] 
+[error] Error: Server Error. connect ETIMEDOUT 23.251.151.130:443
+[debug] ----------------------------------------------------------------------
+[debug] Command:      C:\Program Files\nodejs\node.exe C:\Users\jacdewaal\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase deploy
+[debug] CLI Version:  3.2.1
+[debug] Platform:     win32
+[debug] Node Version: v4.5.0
+[debug] Time:         Thu Jan 26 2017 15:06:48 GMT+0200 (South Africa Standard Time)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[debug] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase"]
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/tonteldoos-6917b 
+[debug] <<< HTTP RESPONSE 200
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/tonteldoos-6917b/tokens 
+[debug] <<< HTTP RESPONSE 200
+[info] 
+[info] === Deploying to 'tonteldoos-6917b'...
+[info] 
+[info] i  deploying hosting
+[info] +  database: rules ready to deploy.
+[info] i  hosting: preparing public directory for upload...
+[debug] >>> HTTP REQUEST PUT https://deploy.firebase.com/v1/hosting/tonteldoos-6917b/uploads/-KbPtAXtGvGppHMX_hjP?fileCount=2&message= 
+[debug] Error: connect ETIMEDOUT 23.251.151.130:443
+    at Object.exports._errnoException (util.js:907:11)
+    at exports._exceptionWithHostPort (util.js:930:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1077:14)
+[error] 
+[error] Error: Server Error. connect ETIMEDOUT 23.251.151.130:443
+[debug] ----------------------------------------------------------------------
+[debug] Command:      C:\Program Files\nodejs\node.exe C:\Users\jacdewaal\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase deploy
+[debug] CLI Version:  3.2.1
+[debug] Platform:     win32
+[debug] Node Version: v4.5.0
+[debug] Time:         Thu Jan 26 2017 15:34:01 GMT+0200 (South Africa Standard Time)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[debug] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase"]
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/tonteldoos-6917b 
+[debug] <<< HTTP RESPONSE 200
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/tonteldoos-6917b/tokens 
+[debug] <<< HTTP RESPONSE 200
+[info] 
+[info] === Deploying to 'tonteldoos-6917b'...
+[info] 
+[info] i  deploying hosting
+[info] +  database: rules ready to deploy.
+[info] i  hosting: preparing public directory for upload...
+[debug] >>> HTTP REQUEST PUT https://deploy.firebase.com/v1/hosting/tonteldoos-6917b/uploads/-KbPyqI7Ab6f0Pzit_iB?fileCount=2&message= 
+[debug] Error: connect ETIMEDOUT 23.251.151.130:443
+    at Object.exports._errnoException (util.js:907:11)
+    at exports._exceptionWithHostPort (util.js:930:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1077:14)
+[error] 
+[error] Error: Server Error. connect ETIMEDOUT 23.251.151.130:443
+[debug] ----------------------------------------------------------------------
+[debug] Command:      C:\Program Files\nodejs\node.exe C:\Users\jacdewaal\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase deploy
+[debug] CLI Version:  3.2.1
+[debug] Platform:     win32
+[debug] Node Version: v4.5.0
+[debug] Time:         Thu Jan 26 2017 15:35:09 GMT+0200 (South Africa Standard Time)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[debug] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase"]
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/tonteldoos-6917b 
+[debug] <<< HTTP RESPONSE 200
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/tonteldoos-6917b/tokens 
+[debug] <<< HTTP RESPONSE 200
+[info] 
+[info] === Deploying to 'tonteldoos-6917b'...
+[info] 
+[info] i  deploying hosting
+[info] +  database: rules ready to deploy.
+[info] i  hosting: preparing public directory for upload...
+[debug] >>> HTTP REQUEST PUT https://deploy.firebase.com/v1/hosting/tonteldoos-6917b/uploads/-KbPz5mpxPlpmHObYzHO?fileCount=55&message= 
+[debug] Error: connect ETIMEDOUT 23.251.151.130:443
+    at Object.exports._errnoException (util.js:907:11)
+    at exports._exceptionWithHostPort (util.js:930:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1077:14)
+[error] 
+[error] Error: Server Error. connect ETIMEDOUT 23.251.151.130:443
+[debug] ----------------------------------------------------------------------
+[debug] Command:      C:\Program Files\nodejs\node.exe C:\Users\jacdewaal\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase deploy
+[debug] CLI Version:  3.2.1
+[debug] Platform:     win32
+[debug] Node Version: v4.5.0
+[debug] Time:         Thu Jan 26 2017 15:35:49 GMT+0200 (South Africa Standard Time)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[debug] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase"]
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/tonteldoos-6917b 
+[debug] <<< HTTP RESPONSE 200
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/tonteldoos-6917b/tokens 
+[debug] <<< HTTP RESPONSE 200
+[info] 
+[info] === Deploying to 'tonteldoos-6917b'...
+[info] 
+[info] i  deploying hosting
+[info] +  database: rules ready to deploy.
+[info] i  hosting: preparing public directory for upload...
+[debug] >>> HTTP REQUEST PUT https://deploy.firebase.com/v1/hosting/tonteldoos-6917b/uploads/-KbPzFGH_D1IaLmNENKc?fileCount=55&message= 
+[debug] Error: connect ETIMEDOUT 23.251.151.130:443
+    at Object.exports._errnoException (util.js:907:11)
+    at exports._exceptionWithHostPort (util.js:930:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1077:14)
+[error] 
+[error] Error: Server Error. connect ETIMEDOUT 23.251.151.130:443
+[debug] ----------------------------------------------------------------------
+[debug] Command:      C:\Program Files\nodejs\node.exe C:\Users\jacdewaal\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase deploy
+[debug] CLI Version:  3.2.1
+[debug] Platform:     win32
+[debug] Node Version: v4.5.0
+[debug] Time:         Thu Jan 26 2017 15:39:09 GMT+0200 (South Africa Standard Time)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[debug] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase"]
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/tonteldoos-6917b 
+[debug] <<< HTTP RESPONSE 200
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/tonteldoos-6917b/tokens 
+[debug] <<< HTTP RESPONSE 200
+[info] 
+[info] === Deploying to 'tonteldoos-6917b'...
+[info] 
+[info] i  deploying hosting
+[info] +  database: rules ready to deploy.
+[info] i  hosting: preparing public directory for upload...
+[debug] >>> HTTP REQUEST PUT https://deploy.firebase.com/v1/hosting/tonteldoos-6917b/uploads/-KbQ-0XcuwioCFF74-JB?fileCount=55&message= 
+[debug] Error: connect ETIMEDOUT 23.251.151.130:443
+    at Object.exports._errnoException (util.js:907:11)
+    at exports._exceptionWithHostPort (util.js:930:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1077:14)
+[error] 
+[error] Error: Server Error. connect ETIMEDOUT 23.251.151.130:443
+[debug] ----------------------------------------------------------------------
+[debug] Command:      C:\Program Files\nodejs\node.exe C:\Users\jacdewaal\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase deploy
+[debug] CLI Version:  3.2.1
+[debug] Platform:     win32
+[debug] Node Version: v4.5.0
+[debug] Time:         Thu Jan 26 2017 15:39:58 GMT+0200 (South Africa Standard Time)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[debug] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase"]
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/tonteldoos-6917b 
+[debug] <<< HTTP RESPONSE 200
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/tonteldoos-6917b/tokens 
+[debug] <<< HTTP RESPONSE 200
+[info] 
+[info] === Deploying to 'tonteldoos-6917b'...
+[info] 
+[info] i  deploying hosting
+[info] +  database: rules ready to deploy.
+[info] i  hosting: preparing public directory for upload...
+[debug] >>> HTTP REQUEST PUT https://deploy.firebase.com/v1/hosting/tonteldoos-6917b/uploads/-KbQ-CIfTHdWl7qKUP4k?fileCount=55&message= 
+[debug] Error: connect ETIMEDOUT 23.251.151.130:443
+    at Object.exports._errnoException (util.js:907:11)
+    at exports._exceptionWithHostPort (util.js:930:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1077:14)
+[error] 
+[error] Error: Server Error. connect ETIMEDOUT 23.251.151.130:443
+[debug] ----------------------------------------------------------------------
+[debug] Command:      C:\Program Files\nodejs\node.exe C:\Users\jacdewaal\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase deploy
+[debug] CLI Version:  3.2.1
+[debug] Platform:     win32
+[debug] Node Version: v4.5.0
+[debug] Time:         Thu Jan 26 2017 15:40:56 GMT+0200 (South Africa Standard Time)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[debug] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase"]
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/tonteldoos-6917b 
+[debug] <<< HTTP RESPONSE 200
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/tonteldoos-6917b/tokens 
+[debug] <<< HTTP RESPONSE 200
+[info] 
+[info] === Deploying to 'tonteldoos-6917b'...
+[info] 
+[info] i  deploying hosting
+[info] +  database: rules ready to deploy.
+[info] i  hosting: preparing public directory for upload...
+[debug] >>> HTTP REQUEST PUT https://deploy.firebase.com/v1/hosting/tonteldoos-6917b/uploads/-KbQ-QVQWzdYygaf2o3A?fileCount=55&message= 
+[debug] Error: connect ETIMEDOUT 23.251.151.130:443
+    at Object.exports._errnoException (util.js:907:11)
+    at exports._exceptionWithHostPort (util.js:930:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1077:14)
+[error] 
+[error] Error: Server Error. connect ETIMEDOUT 23.251.151.130:443
+[debug] ----------------------------------------------------------------------
+[debug] Command:      C:\Program Files\nodejs\node.exe C:\Users\jacdewaal\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase deploy
+[debug] CLI Version:  3.2.1
+[debug] Platform:     win32
+[debug] Node Version: v4.5.0
+[debug] Time:         Thu Jan 26 2017 15:42:00 GMT+0200 (South Africa Standard Time)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[debug] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase"]
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/tonteldoos-6917b 
+[debug] <<< HTTP RESPONSE 200
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/tonteldoos-6917b/tokens 
+[debug] <<< HTTP RESPONSE 200
+[info] 
+[info] === Deploying to 'tonteldoos-6917b'...
+[info] 
+[info] i  deploying hosting
+[info] +  database: rules ready to deploy.
+[info] i  hosting: preparing public directory for upload...
+[debug] >>> HTTP REQUEST PUT https://deploy.firebase.com/v1/hosting/tonteldoos-6917b/uploads/-KbQ-ex-UDXn1nMtDBfa?fileCount=55&message= 
+[debug] Error: connect ETIMEDOUT 23.251.151.130:443
+    at Object.exports._errnoException (util.js:907:11)
+    at exports._exceptionWithHostPort (util.js:930:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1077:14)
+[error] 
+[error] Error: Server Error. connect ETIMEDOUT 23.251.151.130:443
+[debug] ----------------------------------------------------------------------
+[debug] Command:      C:\Program Files\nodejs\node.exe C:\Users\jacdewaal\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase deploy
+[debug] CLI Version:  3.2.1
+[debug] Platform:     win32
+[debug] Node Version: v4.5.0
+[debug] Time:         Thu Jan 26 2017 15:45:00 GMT+0200 (South Africa Standard Time)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[debug] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase"]
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/tonteldoos-6917b 
+[debug] Error: connect ETIMEDOUT 104.197.85.31:443
+    at Object.exports._errnoException (util.js:907:11)
+    at exports._exceptionWithHostPort (util.js:930:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1077:14)
+[error] 
+[error] Error: Server Error. connect ETIMEDOUT 104.197.85.31:443
+[debug] ----------------------------------------------------------------------
+[debug] Command:      C:\Program Files\nodejs\node.exe C:\Users\jacdewaal\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase deploy
+[debug] CLI Version:  3.2.1
+[debug] Platform:     win32
+[debug] Node Version: v4.5.0
+[debug] Time:         Thu Jan 26 2017 15:46:52 GMT+0200 (South Africa Standard Time)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[debug] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase"]
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/tonteldoos-6917b 
+[debug] Error: connect ETIMEDOUT 104.197.85.31:443
+    at Object.exports._errnoException (util.js:907:11)
+    at exports._exceptionWithHostPort (util.js:930:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1077:14)
+[error] 
+[error] Error: Server Error. connect ETIMEDOUT 104.197.85.31:443
+[debug] ----------------------------------------------------------------------
+[debug] Command:      C:\Program Files\nodejs\node.exe C:\Users\jacdewaal\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase deploy
+[debug] CLI Version:  3.2.1
+[debug] Platform:     win32
+[debug] Node Version: v4.5.0
+[debug] Time:         Thu Jan 26 2017 15:47:40 GMT+0200 (South Africa Standard Time)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[debug] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase"]
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/tonteldoos-6917b 
+[debug] Error: connect ETIMEDOUT 104.197.85.31:443
+    at Object.exports._errnoException (util.js:907:11)
+    at exports._exceptionWithHostPort (util.js:930:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1077:14)
+[error] 
+[error] Error: Server Error. connect ETIMEDOUT 104.197.85.31:443
+[debug] ----------------------------------------------------------------------
+[debug] Command:      C:\Program Files\nodejs\node.exe C:\Users\jacdewaal\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase deploy
+[debug] CLI Version:  3.2.1
+[debug] Platform:     win32
+[debug] Node Version: v4.5.0
+[debug] Time:         Thu Jan 26 2017 15:48:21 GMT+0200 (South Africa Standard Time)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[debug] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase"]
+[debug] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token
+[debug] <<< HTTP RESPONSE 200
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/tonteldoos-6917b 
+[debug] Error: connect ETIMEDOUT 104.197.85.31:443
+    at Object.exports._errnoException (util.js:907:11)
+    at exports._exceptionWithHostPort (util.js:930:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1077:14)
+[error] 
+[error] Error: Server Error. connect ETIMEDOUT 104.197.85.31:443
+[debug] ----------------------------------------------------------------------
+[debug] Command:      C:\Program Files\nodejs\node.exe C:\Users\jacdewaal\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase deploy
+[debug] CLI Version:  3.2.1
+[debug] Platform:     win32
+[debug] Node Version: v4.5.0
+[debug] Time:         Thu Jan 26 2017 15:48:51 GMT+0200 (South Africa Standard Time)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[debug] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase"]
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/tonteldoos-6917b 
+[debug] <<< HTTP RESPONSE 200
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/tonteldoos-6917b/tokens 
+[debug] <<< HTTP RESPONSE 200
+[info] 
+[info] === Deploying to 'tonteldoos-6917b'...
+[info] 
+[info] i  deploying hosting
+[info] +  database: rules ready to deploy.
+[info] i  hosting: preparing public directory for upload...
+[debug] >>> HTTP REQUEST PUT https://deploy.firebase.com/v1/hosting/tonteldoos-6917b/uploads/-KbQ1EVe0AkFdYrm5fnq?fileCount=55&message= 
+[debug] Error: connect ETIMEDOUT 23.251.151.130:443
+    at Object.exports._errnoException (util.js:907:11)
+    at exports._exceptionWithHostPort (util.js:930:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1077:14)
+[error] 
+[error] Error: Server Error. connect ETIMEDOUT 23.251.151.130:443
